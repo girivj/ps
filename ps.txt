@@ -1,0 +1,458 @@
+﻿The primary source of energyis the ___        ||||        sun
+
+
+The most important form of energy is the __        ||||        electrical energy 
+
+
+1 Kwh = ____Kcal        ||||        860
+
+
+The Calorific value of a solid fuel is expressed in ____        ||||        cal/gm or kcal/kg
+
+
+The three principal sources of energy used for the generation of electrical energy  are _____ and __        ||||        water, fuels and radioactive substances
+
+
+ Electrical energy is ___ than other forms of energy.        ||||        cheaper
+
+
+The electrical, heat and mechanical energies __be expressed in the same unitzs.        ||||        can
+
+
+____continue to enjoy the chief source for the generation of electrical emergy.        ||||        fuels
+
+
+The basic unit of energy is ____        ||||        joule
+
+
+An alternator is a machine which converts ______________________________ into ___        ||||        mechanical energy, electrical energy
+
+
+The major heat loss in a steam power station occurs in ___        ||||        condenser, about 53%
+
+
+The thermal efficiency of a steam power station is about __        ||||        28%
+
+
+Cooling towers are used where __        ||||        water is not available in sufficient quantity
+
+
+The running cost of a medium power stations is about __paise per unit.        ||||        15
+
+
+In a hydro - electric plant,spilways are used ______        ||||        to discharge surplus water on the downstream side of dam
+
+
+Francis and Kaplan turbines are used for  ___ heads        ||||        5
+Surge tank is provided for the protection of __        ||||        pelton wheel
+
+
+Of all the plants, minimum quantity of fuel is required in ___        ||||        nuclear power
+
+
+The cost of fuel transportation is minimum in  ___Plant.        ||||        Hydro Electric 
+
+
+The cheapest plant in operation and maintenance is ____Plamt.        ||||        Hydro Electric 
+
+
+Economisers are used to heat ___        ||||        Feed water
+
+
+The running cost of a neuclear power plant is about __paise per unit        ||||        20
+
+
+Diesel power plants are used as _____plants.        ||||        stand by
+
+
+India's first nuclear power plant was built at ___        ||||        Tarapur
+
+
+The most simple and clean plant is _______plant.        ||||        Hydro Electric 
+
+
+The first nuclear power plant in the world  was commissioned in ___        ||||        U.S.S.R
+
+
+Gas turbine power plant is ___efficient than steam power plant        ||||        more
+
+
+Draft tube is used in ____ turbines.        ||||        reaction
+
+
+The power factor of an a.c. circuit is given by ___ power divided by __ power        ||||        active, apparent
+
+
+The lagging power factor is due to ____power drawn by the circuit.        ||||        lagging reactive
+
+
+UNIT - 2
+
+
+
+
+By using a guard ring, string efficiency is __    ||||    increased
+
+
+Shunt capacitance in suspension insulators can be decreased by increasing the distance of _______ from ______    ||||    conductor, tower
+
+
+The insulator is so designed that it should fail only by _____    ||||    flash over
+
+
+Suspension type insulatos are used for voltages beyond _____-    ||||    33Kv
+
+
+In a string of suspension insulators, if the unit nearest to the conductor breaks down, then other units will _______    ||||    also breakdown
+
+
+A shorter string has ____string efficiency than a larger one.    ||||    more
+
+
+Corona effect is _________pronounced in stormy weather as compared to fair weather.    ||||    more
+
+
+If the conductor size is increased, the corona effect is __    ||||    decreased
+
+
+The longer the crossarm, the _the string efficiency.    ||||    greater
+
+
+The discs of the strain insulators are used in __ -plane.    ||||    vertical
+
+
+Sag is provided in overhead lines so that ____    ||||    Safe tension is not exceeded
+
+
+When an insulator breaks down by puncture, it is ___damaged.    ||||    permanently
+
+
+The power loss in an overhead  transmission line is mainly due to __    ||||    Line conductor resistance
+
+
+If the length of a transmission line increases, its inductance is ____    ||||    increased
+
+
+The d.c. resistance of aline conductor is ___ than it’s a.c. resistance.    ||||    lesser
+
+
+If capacitance netween two conductors of a 3 phase kline is 4micro farad, then capacitance of each conductor to neutral is  _____    ||||    8Mf
+
+
+If the length of the line is decreased, its capacitance is __    ||||    decreased
+
+
+Transposition of  a 3 phase transmission line helps in __    ||||    equalising inductance and capacitance of the three phases
+
+
+A neutral plane is one where ___is zero.    ||||    electric intensity
+
+
+In a single phase overhead line, the neutral plane lies at ___    ||||    vertical
+
+
+IF the supply frequency increases, then skin effect is ___    ||||    increased
+
+
+An overhead transmission lien has appreciable inductance because the loop it forms has ___ X sectional area.    ||||    larger
+
+
+If the spacing between the conductors is increased, the inductance of the line ____    ||||    increases
+
+
+The skin effect is ___for stranded conductor than the solid conductor.    ||||    less
+
+
+If the conductor diameter decreases, inductance of the line is ___ ||||    increased
+
+
+In short transmission lines, the effect of ____ are neglected    ||||    capacitance
+
+
+_____ of transmission lines, is the most impoprtant cause of power loss in the line.    ||||    resistance
+
+
+In the analysis of 3 phase transmission line, only ___is considered.    ||||    onephase
+
+
+For a given Vr and I, the regulation of the line ____with the decrease in p.f. for lagging loads.    ||||    increases
+
+
+If the p.f. of the load decreases, the line losses _____    ||||    increase
+
+
+UNIT - 3
+
+
+The underground system has __initial cost than the overhead system    ||||    more
+
+
+A ring main system of distribution is ___reliable than the radial system.    ||||    more
+
+
+The distribution transformer links the primary and _ distribution systems    ||||    secondary
+
+
+The most common system for secondary distribtuion is ___ 3 phase, ___ wire system.    ||||    400/230v,4
+
+
+The statutory limit for voltage variations at the consumer's terminal is _ % of rated value.    ||||    6
+
+
+The service mains connect the ___ and the ___    ||||    distributor, consumer terminals
+
+
+The overhead system is _____ flexible than underground system.    ||||    more
+
+
+The main consideration in the design of a feeder is the ____    ||||    current carrying capacity
+
+
+A 3 wire d.c. distribution makes available _______voltages    ||||    two
+
+
+Now a days __ system is used for distribution.    ||||    a.c.
+
+
+The interconnected sysem ____ the reserve capacity of the systems.    ||||    increases
+
+
+The major part of investment on secondary distribution is made on ______    ||||    distribution transformers
+
+
+The chances of faults in underground system are ____as compared to overhead system.    ||||    less
+
+
+In a singly fed distributor, if fault occurs on any section, the supply to all consumers has to be ___    ||||    shut off
+
+
+A ring main distributor fed at one end is equivalent to ___fed at both ends with equal voltages.    ||||    straight distributor
+
+
+A distributor is designed from ____-considerations.    ||||    voltage drop
+
+
+The point of minimum potential of a uniformly loaded distributor fed at both ends with equal voltages will occur at ____    ||||    mid point
+
+
+The d.c. interconnector is used ____--the voltage drops in the various sections of the distributor.    ||||    to reduce
+
+
+In a 3 wire d.c. system, the load on postive side is 400A and on negative side it is 300A.Then current in neutral wire is ___    ||||    100A
+
+
+In a balanced 3 wire d.c. system, the potential of neutral is ______ betweet that of outers.    ||||    midway
+
+
+A booster is used to ______voltage drop in feeders etc.    ||||    compensate
+
+
+Balancer set is used to maintain voltage on the two sides of the neutral _____    ||||    equal to each other
+
+
+In a balanced 3 wire d.c. system, if voltage across the outers is 500V, then voltage betweeb any outer and neutral is ___    ||||    250V
+
+
+The voltage drop in a doubly fed distributor is ___ than the equivalent singly fed distributor.    ||||    less
+
+
+In a 3 wire system, the area of X section of neutral is generally __ of either outer.    ||||    half
+
+
+If in a 3 wire d.c. system, the current in the neutral wire is zero, then voltage between any outer and neutral is ____    ||||    the same
+
+
+A booster is connected in ___ with the feeder    ||||    series
+
+
+For exact compensation of voltage drop in the feeder, the booster must work on _____ -portion of its V-I characeristic.    ||||    linear
+
+
+The balancer machine connected to the heavily loaded side works as a _________    ||||    generator
+
+
+The most common system for secondary distribution is 400/___ V, 3 phase, ___ -wire system.    ||||    230,4
+
+
+UNIT - 4
+
+
+In forced blast oil circuit breakers, the extinguishing foce is _____ the fault current to be interrupted    ||||    independent of
+
+
+In low oil circuit breakers, ______ -is used for insulation purposes.    ||||    solid material
+
+
+Forced blast circuit breakers have _____ --speed of circuit interruption.    ||||    high
+Fuses are generally used in circuits where __ operations are not expected.    ||||    frequent
+
+
+The minimum time of operation of a fuse is __ than that of a circuit breaker.    ||||    smaller
+
+
+A fuse element should have ___ melting point    ||||    low
+
+
+The disadvantages of tin fuse element is that its vapour tends to ____ --when it blows out    ||||    maintain the arc
+
+
+The value of fusing factor is always _____ -than unity    ||||    more
+
+
+Semi enclosed rewireable fuses have ____ --breaking capacity.    ||||    low
+
+
+A fuse has _______ time current characteristics    ||||    reversed
+
+
+The action of a fuse is ______ completely automatic    ||||    Inherently
+
+
+The fuse element is generally made of ___   ||||    silver
+
+
+The fuse melts well _____ the first peak of fault current is reached    ||||    before
+
+
+A fuse is __ than other circuit interrupting device of equal breaking capacity    ||||    cheaper
+
+
+For the same material, heavy current fuse wires must have ____ diameters than for smaller currents.    ||||    larger
+
+
+A fuse performs ____ --functions.    ||||    both detection and interruption
+
+
+A fuse has ___ breaking capacity as compared toa acircuit breaker    ||||    low
+
+
+Differential protection scheme for longer lines is __ _costly    ||||    very
+
+
+The bus bar zone, for the purpose of protection, includes ______, _______ and _______    ||||    busbars, isolating switches, circuit breakers
+
+
+The two most commonly used schemes for bus bar protection are _____and __________    ||||    differential protection, fault bus protection
+
+
+The probability of faults occuring on the lines is much more due to their ____ -and _____    ||||    greater length, exposure to atmospheric conditions
+
+
+In time graded overcurrent protection, __ -discrimination is incorporated    ||||    time
+
+
+The parallel feeders ____ be protected by non directional overcurrent relays alone    ||||    cannot
+
+
+The translay scheme is essentially a ___ balance system    ||||    voltage
+
+
+A summation transformer is a device that reproduces the polyphase line currents as a _____ --phase quantity    ||||    single phase 2 wire
+
+
+The ideal scheme of protection for lines is ____ protection    ||||    differential protection, fault bus protection
+
+
+Accurate matching of current transformers is _ in Merz - price voltage balance system    ||||    essential
+
+
+The most severe surges on the line are produced by ______    ||||    lightning
+
+
+Lightening produces a ____ fronted wave    ||||    steep
+
+
+Transients on the power system due to current chopping are taken care of by    ||||    resistance switching
+
+
+UNIT - 5
+
+
+
+
+An earth fault current is generally ___ than short circuit current    ||||    less
+
+
+Merz price circulating current principle is more suitable for ____ than ___     ||||    generators, transformers
+
+
+In an oil circuit breaker, _____ is used as the arc quenching medium.    ||||    some mineral oil
+
+
+The quantity of oil needed for arc control oil circuit breakers is __ -than that of plain break oil circuit breaker.    ||||    less
+
+
+Current chopping mainly occurs in ____ circuit breakers    ||||    air blast
+Capacitive current breaking results in ______    ||||    voltage surges
+
+
+Cross jet explosion pot breaker can interrupt ___ -short circuit currents efficiently.    ||||    heavy
+
+
+In forced blast oil circuit breakers, the extinguishing foce is __________ the fault current to be interrupted    ||||    independent of
+
+
+In low oil circuit breakers, ___ --is used for insulation purposes.    ||||    solid material
+
+
+Forced blast circuit breakers have ____ --speed of circuit interruption.    ||||    high
+
+
+Fuses are generally used in circuits where ____ operations are not expected.    ||||    frequent
+
+
+In a transmission line, generalised constants ____ and ___ are equal    ||||    A and D
+
+
+A 3 wire d.c. distribution makes available ______ voltages    ||||    two
+
+
+The underground system is ______ costly than the equivalent overhead line system.    ||||    more
+
+
+Voltage drop in cable system is less than that of equivalent overhead line because of ____ of conductors in a cable.    ||||    closer spacing
+
+
+A metallic sheath is provided over the insulation to protect the cable from _____    ||||    moisture
+
+
+In single - core cables, armouring is not done in order to avoid ____    ||||    excessive sheath losses
+
+
+The most commonly used insulation in high voltage cables is _____    ||||    impregnated paper
+
+
+Belted cables are generally used upto _____KV    ||||    11
+
+
+The working voltrage level of belted cables are unreliable because there is a danger of breakdown of insulation due to the ____    ||||    tangential stresses
+
+
+The concept of FACTS was found in the year    ||||    1988
+
+
+ TCSC helps in limiting fault current only when the firing angle is equal to    ||||    90 degree
+
+
+Compared to SVC, STATCOM produces -------------- harmonics.    ||||    less
+
+
+For effective operation, the use of STATCOM needs ------------- thyristors.    ||||    gate turn off
+
+
+STATCOM is better than     ||||    SVC
+
+
+The capital cost of HVDC converter is     ||||    more than AC substation
+
+
+The power transfer capability of short lines is set by     ||||    thermal limit
+
+
+"The voltage profile of the transmission line is low, when"    ||||    "reactive power absorption  > reactive power generation"
+
+
+"To increase the power transmitted through a long transmission line, "    ||||    "value of inductance can be decreased"
+
+
+Increasing the frequency of transmission will    ||||     increase line resistance
